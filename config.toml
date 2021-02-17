@@ -1,4 +1,4 @@
-baseURL = "saehyun.github.io"
+baseURL = ""
 languageCode = "en-us"
 title = "KSH"
 theme = "Hugo-Octopress"
