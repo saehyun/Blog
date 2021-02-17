@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/saehyun/saehyun.github.io
+	branch = master
