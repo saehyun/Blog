@@ -29,8 +29,6 @@ Work Experience
 - 피망 포커 클라이언트 개발
   - 라이브 서비스 개발
 
----
-
 [네오위즈플레이스튜디오](https://www.neowiz.com/neowiz/)  
 (2016/04/22 ~ 2020/12/16)
 
@@ -47,3 +45,11 @@ Work Experience
   - 라이브 서비스 개발
 
 ---
+
+
+Education
+---------
+
+Hansung University Seoul, Korea  
+  
+B.S. in Computer Engineering, 2016
