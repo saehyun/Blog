@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2021-02-17T17:59:54+09:00
-draft: true
+draft: false
 toc: false
 comments: false
 categories:
