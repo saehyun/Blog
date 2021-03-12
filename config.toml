@@ -2,3 +2,24 @@ baseURL = ""
 languageCode = "en-us"
 title = "KSH"
 theme = "Hugo-Octopress"
+
+[[menu.main]]
+  Name = "Blog"
+  URL = "/"
+  weight = -10
+
+[[menu.main]]
+  Name = "CV"
+  URL = "https://saehyun.github.io/cv/"
+  weight = -5
+
+[params]
+  navigationNewWindow = true
+  truncate = true
+  author = "KSH" 
+  generateTaxonomyList = false
+
+#sidebarHeader = "Sidebar Header"
+sidebarText = """
+[![mailto](/img/main.png)](mailto:saehyun91@gmail.com)
+"""

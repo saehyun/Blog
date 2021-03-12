@@ -5,9 +5,9 @@ draft: false
 toc: false
 comments: true
 categories:
-- C#
+- csharp
 tags:
-- C#
+- csharp
 - Hashcode
 ---
 #### 목적
