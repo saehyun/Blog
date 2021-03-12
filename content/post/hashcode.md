@@ -1,5 +1,5 @@
 ---
-title: "Hash"
+title: "Hashcode"
 date: 2021-03-10T16:52:07+09:00
 draft: false
 toc: false
@@ -8,7 +8,7 @@ categories:
 - C#
 tags:
 - C#
-- Hash
+- Hashcode
 ---
 #### 목적
 Hashtable, DictionaryBase 등 해시 기반 컬렉션에 개체 삽입 및 식별하는데 사용
@@ -17,7 +17,7 @@ Hashtable, DictionaryBase 등 해시 기반 컬렉션에 개체 삽입 및 식�
 
 #### 특징
 
-1. Hash는 유니크하지 않다.  
+1. Hash code는 유니크하지 않다.  
 * 고유 식별자로 사용하면 안된다.
 * 동일한 해시 코드가 동일한 값을 보장하지도 않는다.  
   -> 오브젝트의 equals 여부를 해시코드로 비교하면 안된다.
